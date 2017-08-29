@@ -557,6 +557,11 @@
                         "Name": "Lith V2",
                         "Vaulted": false,
                         "Rarity": "Common"
+                    },
+                    {
+                        "Name": "Lith B2",
+                        "Vaulted": false,
+                        "Rarity": "Common"
                     }
                 ],
                 "Ducats": 15
@@ -4314,23 +4319,6 @@
                     }
                 ],
                 "Ducats": 45
-            }
-        ],
-        "Vaulted": false
-    },
-    {
-        "Name": "Paris Prime Prime",
-        "Components": [
-            {
-                "Name": "Lower Limb",
-                "Relics": [
-                    {
-                        "Name": "Lith B2",
-                        "Vaulted": false,
-                        "Rarity": "Common"
-                    }
-                ],
-                "Ducats": 15
             }
         ],
         "Vaulted": false
