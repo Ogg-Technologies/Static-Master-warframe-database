@@ -1,0 +1,3396 @@
+[
+    {
+        "Name": "Lith S2",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Akbronco Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Carrier Prime",
+                "Component": "Systems",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Kavasa Prime Collar",
+                "Component": "Band",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Nyx Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Soma Prime",
+                "Component": "Stock",
+                "Rarity": "Rare"
+            }
+        ]
+    },
+    {
+        "Name": "Lith S3",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Akbronco Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Ash Prime",
+                "Component": "Blueprint",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Carrier Prime",
+                "Component": "Systems",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Paris Prime",
+                "Component": "String",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Soma Prime",
+                "Component": "Receiver",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Spira Prime",
+                "Component": "Pouch",
+                "Rarity": "Rare"
+            }
+        ]
+    },
+    {
+        "Name": "Meso O1",
+        "Vaulted": false,
+        "Rewards": [
+            {
+                "Item": "Akbronco Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Akstiletto Prime",
+                "Component": "Link",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Cernos Prime",
+                "Component": "String",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Oberon Prime",
+                "Component": "Neuroptics",
+                "Rarity": "Rare"
+            },
+            {
+                "Item": "Paris Prime",
+                "Component": "Lower Limb",
+                "Rarity": "Common"
+            }
+        ]
+    },
+    {
+        "Name": "Meso S3",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Akbronco Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Ash Prime",
+                "Component": "Blueprint",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Nekros Prime",
+                "Component": "Chassis",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Spira Prime",
+                "Component": "Pouch",
+                "Rarity": "Rare"
+            },
+            {
+                "Item": "Valkyr Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            }
+        ]
+    },
+    {
+        "Name": "Lith A2",
+        "Vaulted": false,
+        "Rewards": [
+            {
+                "Item": "Akbronco Prime",
+                "Component": "Link",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Akstiletto Prime",
+                "Component": "Blueprint",
+                "Rarity": "Rare"
+            },
+            {
+                "Item": "Cernos Prime",
+                "Component": "Blueprint",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Lex Prime",
+                "Component": "Barrel",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Valkyr Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            }
+        ]
+    },
+    {
+        "Name": "Lith N1",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Akbronco Prime",
+                "Component": "Link",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Bronco Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Fang Prime",
+                "Component": "Blade",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Nekros Prime",
+                "Component": "Chassis",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Nova Prime",
+                "Component": "Chassis",
+                "Rarity": "Rare"
+            }
+        ]
+    },
+    {
+        "Name": "Lith S5",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Akbronco Prime",
+                "Component": "Link",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Burston Prime",
+                "Component": "Receiver",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Carrier Prime",
+                "Component": "Carapace",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Fang Prime",
+                "Component": "Blade",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Galatine Prime",
+                "Component": "Handle",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Spira Prime",
+                "Component": "Blade",
+                "Rarity": "Rare"
+            }
+        ]
+    },
+    {
+        "Name": "Axi S1",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Akbronco Prime",
+                "Component": "Link",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Bronco Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Bronco Prime",
+                "Component": "Receiver",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Scindo Prime",
+                "Component": "Blade",
+                "Rarity": "Rare"
+            },
+            {
+                "Item": "Trinity Prime",
+                "Component": "Blueprint",
+                "Rarity": "Uncommon"
+            }
+        ]
+    },
+    {
+        "Name": "Axi A2",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Aklex Prime",
+                "Component": "Blueprint",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Aklex Prime",
+                "Component": "Link",
+                "Rarity": "Rare"
+            },
+            {
+                "Item": "Lex Prime",
+                "Component": "Barrel",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Lex Prime",
+                "Component": "Blueprint",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Lex Prime",
+                "Component": "Receiver",
+                "Rarity": "Common"
+            }
+        ]
+    },
+    {
+        "Name": "Axi A1",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Akstiletto Prime",
+                "Component": "Barrel",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Braton Prime",
+                "Component": "Stock",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Dual Kamas Prime",
+                "Component": "Handle",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Fragor Prime",
+                "Component": "Head",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Nikana Prime",
+                "Component": "Blueprint",
+                "Rarity": "Rare"
+            },
+            {
+                "Item": "Trinity Prime",
+                "Component": "Systems",
+                "Rarity": "Common"
+            }
+        ]
+    },
+    {
+        "Name": "Axi H2",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Akstiletto Prime",
+                "Component": "Barrel",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Fang Prime",
+                "Component": "Handle",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Helios Prime",
+                "Component": "Cerebrum",
+                "Rarity": "Rare"
+            },
+            {
+                "Item": "Lex Prime",
+                "Component": "Receiver",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Oberon Prime",
+                "Component": "Chassis",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Trinity Prime",
+                "Component": "Chassis",
+                "Rarity": "Uncommon"
+            }
+        ]
+    },
+    {
+        "Name": "Lith A1",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Akstiletto Prime",
+                "Component": "Blueprint",
+                "Rarity": "Rare"
+            },
+            {
+                "Item": "Braton Prime",
+                "Component": "Barrel",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Saryn Prime",
+                "Component": "Neuroptics",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Vasto Prime",
+                "Component": "Receiver",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Vectis Prime",
+                "Component": "Blueprint",
+                "Rarity": "Uncommon"
+            }
+        ]
+    },
+    {
+        "Name": "Neo A1",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Akstiletto Prime",
+                "Component": "Blueprint",
+                "Rarity": "Rare"
+            },
+            {
+                "Item": "Braton Prime",
+                "Component": "Barrel",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Carrier Prime",
+                "Component": "Systems",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Cernos Prime",
+                "Component": "String",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Vectis Prime",
+                "Component": "Blueprint",
+                "Rarity": "Uncommon"
+            }
+        ]
+    },
+    {
+        "Name": "Neo N5",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Akstiletto Prime",
+                "Component": "Link",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Ash Prime",
+                "Component": "Systems",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Helios Prime",
+                "Component": "Carapace",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Nikana Prime",
+                "Component": "Blueprint",
+                "Rarity": "Rare"
+            },
+            {
+                "Item": "Saryn Prime",
+                "Component": "Systems",
+                "Rarity": "Common"
+            }
+        ]
+    },
+    {
+        "Name": "Axi N1",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Akstiletto Prime",
+                "Component": "Link",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Ash Prime",
+                "Component": "Systems",
+                "Rarity": "Rare"
+            },
+            {
+                "Item": "Braton Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Fang Prime",
+                "Component": "Blade",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Odonata Prime",
+                "Component": "Wings",
+                "Rarity": "Uncommon"
+            }
+        ]
+    },
+    {
+        "Name": "Axi H1",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Akstiletto Prime",
+                "Component": "Receiver",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Fragor Prime",
+                "Component": "Head",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Helios Prime",
+                "Component": "Cerebrum",
+                "Rarity": "Rare"
+            },
+            {
+                "Item": "Trinity Prime",
+                "Component": "Chassis",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Vectis Prime",
+                "Component": "Barrel",
+                "Rarity": "Common"
+            }
+        ]
+    },
+    {
+        "Name": "Axi K1",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Akstiletto Prime",
+                "Component": "Receiver",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Hikou Prime",
+                "Component": "Pouch",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Kavasa Prime Collar",
+                "Component": "Buckle",
+                "Rarity": "Rare"
+            },
+            {
+                "Item": "Lex Prime",
+                "Component": "Barrel",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Odonata Prime",
+                "Component": "Harness",
+                "Rarity": "Common"
+            }
+        ]
+    },
+    {
+        "Name": "Axi O1",
+        "Vaulted": false,
+        "Rewards": [
+            {
+                "Item": "Akstiletto Prime",
+                "Component": "Receiver",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Euphona Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Galatine Prime",
+                "Component": "Handle",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Oberon Prime",
+                "Component": "Systems",
+                "Rarity": "Rare"
+            },
+            {
+                "Item": "Paris Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            }
+        ]
+    },
+    {
+        "Name": "Axi T1",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Akstiletto Prime",
+                "Component": "Receiver",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Burston Prime",
+                "Component": "Barrel",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Odonata Prime",
+                "Component": "Harness",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Saryn Prime",
+                "Component": "Systems",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Tigris Prime",
+                "Component": "Blueprint",
+                "Rarity": "Rare"
+            },
+            {
+                "Item": "Vectis Prime",
+                "Component": "Barrel",
+                "Rarity": "Common"
+            }
+        ]
+    },
+    {
+        "Name": "Axi R1",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Ankyros Prime",
+                "Component": "Blade",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Boar Prime",
+                "Component": "Receiver",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Boltor Prime",
+                "Component": "Stock",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Dakra Prime",
+                "Component": "Blueprint",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Mag Prime",
+                "Component": "Systems",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Rhino Prime",
+                "Component": "Blueprint",
+                "Rarity": "Rare"
+            }
+        ]
+    },
+    {
+        "Name": "Lith B1",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Ankyros Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Boar Prime",
+                "Component": "Stock",
+                "Rarity": "Rare"
+            },
+            {
+                "Item": "Boltor Prime",
+                "Component": "Receiver",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Mag Prime",
+                "Component": "Neuroptics",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Rhino Prime",
+                "Component": "Neuroptics",
+                "Rarity": "Uncommon"
+            }
+        ]
+    },
+    {
+        "Name": "Meso M1",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Ankyros Prime",
+                "Component": "Gauntlet",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Boar Prime",
+                "Component": "Barrel",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Boltor Prime",
+                "Component": "Barrel",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Dakra Prime",
+                "Component": "Handle",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Mag Prime",
+                "Component": "Blueprint",
+                "Rarity": "Rare"
+            },
+            {
+                "Item": "Rhino Prime",
+                "Component": "Chassis",
+                "Rarity": "Uncommon"
+            }
+        ]
+    },
+    {
+        "Name": "Meso C1",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Ash Prime",
+                "Component": "Blueprint",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Carrier Prime",
+                "Component": "Cerebrum",
+                "Rarity": "Rare"
+            },
+            {
+                "Item": "Nova Prime",
+                "Component": "Neuroptics",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Saryn Prime",
+                "Component": "Systems",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Scindo Prime",
+                "Component": "Handle",
+                "Rarity": "Uncommon"
+            }
+        ]
+    },
+    {
+        "Name": "Meso V2",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Ash Prime",
+                "Component": "Chassis",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Nikana Prime",
+                "Component": "Blade",
+                "Rarity": "Rare"
+            },
+            {
+                "Item": "Paris Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Vasto Prime",
+                "Component": "Receiver",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Volt Prime",
+                "Component": "Chassis",
+                "Rarity": "Uncommon"
+            }
+        ]
+    },
+    {
+        "Name": "Neo N4",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Ash Prime",
+                "Component": "Chassis",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Braton Prime",
+                "Component": "Stock",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Nikana Prime",
+                "Component": "Blade",
+                "Rarity": "Rare"
+            },
+            {
+                "Item": "Paris Prime",
+                "Component": "String",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Venka Prime",
+                "Component": "Blueprint",
+                "Rarity": "Uncommon"
+            }
+        ]
+    },
+    {
+        "Name": "Axi B1",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Ash Prime",
+                "Component": "Chassis",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Banshee Prime",
+                "Component": "Systems",
+                "Rarity": "Rare"
+            },
+            {
+                "Item": "Cernos Prime",
+                "Component": "Blueprint",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Euphona Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Fang Prime",
+                "Component": "Blade",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Kavasa Prime Collar",
+                "Component": "Buckle",
+                "Rarity": "Uncommon"
+            }
+        ]
+    },
+    {
+        "Name": "Meso N2",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Ash Prime",
+                "Component": "Neuroptics",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Bronco Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Fang Prime",
+                "Component": "Handle",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Hikou Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Vauban Prime",
+                "Component": "Neuroptics",
+                "Rarity": "Rare"
+            }
+        ]
+    },
+    {
+        "Name": "Meso V4",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Ash Prime",
+                "Component": "Neuroptics",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Carrier Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Lex Prime",
+                "Component": "Barrel",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Valkyr Prime",
+                "Component": "Neuroptics",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Vauban Prime",
+                "Component": "Chassis",
+                "Rarity": "Rare"
+            }
+        ]
+    },
+    {
+        "Name": "Neo N3",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Ash Prime",
+                "Component": "Neuroptics",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Fang Prime",
+                "Component": "Handle",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Lex Prime",
+                "Component": "Barrel",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Nekros Prime",
+                "Component": "Systems",
+                "Rarity": "Rare"
+            },
+            {
+                "Item": "Odonata Prime",
+                "Component": "Systems",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Paris Prime",
+                "Component": "String",
+                "Rarity": "Common"
+            }
+        ]
+    },
+    {
+        "Name": "Neo V4",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Ash Prime",
+                "Component": "Neuroptics",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Bronco Prime",
+                "Component": "Receiver",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Cernos Prime",
+                "Component": "Grip",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Saryn Prime",
+                "Component": "Neuroptics",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Tigris Prime",
+                "Component": "Stock",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Venka Prime",
+                "Component": "Gauntlet",
+                "Rarity": "Rare"
+            }
+        ]
+    },
+    {
+        "Name": "Axi N2",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Ash Prime",
+                "Component": "Neuroptics",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Bronco Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Carrier Prime",
+                "Component": "Carapace",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Lex Prime",
+                "Component": "Receiver",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Nikana Prime",
+                "Component": "Hilt",
+                "Rarity": "Rare"
+            }
+        ]
+    },
+    {
+        "Name": "Neo N7",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Banshee Prime",
+                "Component": "Blueprint",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Euphona Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Nekros Prime",
+                "Component": "Systems",
+                "Rarity": "Rare"
+            },
+            {
+                "Item": "Trinity Prime",
+                "Component": "Neuroptics",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Valkyr Prime",
+                "Component": "Neuroptics",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Venka Prime",
+                "Component": "Blades",
+                "Rarity": "Common"
+            }
+        ]
+    },
+    {
+        "Name": "Neo T1",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Banshee Prime",
+                "Component": "Blueprint",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Burston Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Dual Kamas Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Fragor Prime",
+                "Component": "Handle",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Tigris Prime",
+                "Component": "Blueprint",
+                "Rarity": "Rare"
+            }
+        ]
+    },
+    {
+        "Name": "Neo B1",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Banshee Prime",
+                "Component": "Chassis",
+                "Rarity": "Rare"
+            },
+            {
+                "Item": "Bronco Prime",
+                "Component": "Receiver",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Burston Prime",
+                "Component": "Barrel",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Paris Prime",
+                "Component": "String",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Trinity Prime",
+                "Component": "Systems",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Vectis Prime",
+                "Component": "Stock",
+                "Rarity": "Uncommon"
+            }
+        ]
+    },
+    {
+        "Name": "Neo B2",
+        "Vaulted": false,
+        "Rewards": [
+            {
+                "Item": "Banshee Prime",
+                "Component": "Chassis",
+                "Rarity": "Rare"
+            },
+            {
+                "Item": "Braton Prime",
+                "Component": "Stock",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Fang Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Tigris Prime",
+                "Component": "Stock",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Venka Prime",
+                "Component": "Blueprint",
+                "Rarity": "Uncommon"
+            }
+        ]
+    },
+    {
+        "Name": "Meso S4",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Banshee Prime",
+                "Component": "Neuroptics",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Fang Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Fang Prime",
+                "Component": "Handle",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Galatine Prime",
+                "Component": "Blade",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Saryn Prime",
+                "Component": "Blueprint",
+                "Rarity": "Rare"
+            },
+            {
+                "Item": "Trinity Prime",
+                "Component": "Blueprint",
+                "Rarity": "Uncommon"
+            }
+        ]
+    },
+    {
+        "Name": "Axi B2",
+        "Vaulted": false,
+        "Rewards": [
+            {
+                "Item": "Banshee Prime",
+                "Component": "Systems",
+                "Rarity": "Rare"
+            },
+            {
+                "Item": "Fang Prime",
+                "Component": "Blade",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Fragor Prime",
+                "Component": "Head",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Orthos Prime",
+                "Component": "Blueprint",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Sybaris Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            }
+        ]
+    },
+    {
+        "Name": "Axi V2",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Boar Prime",
+                "Component": "Barrel",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Braton Prime",
+                "Component": "Receiver",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Hikou Prime",
+                "Component": "Pouch",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Mag Prime",
+                "Component": "Neuroptics",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Trinity Prime",
+                "Component": "Systems",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Vectis Prime",
+                "Component": "Stock",
+                "Rarity": "Rare"
+            }
+        ]
+    },
+    {
+        "Name": "Neo B3",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Boar Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Boltor Prime",
+                "Component": "Blueprint",
+                "Rarity": "Rare"
+            },
+            {
+                "Item": "Dakra Prime",
+                "Component": "Blade",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Mag Prime",
+                "Component": "Chassis",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Rhino Prime",
+                "Component": "Systems",
+                "Rarity": "Common"
+            }
+        ]
+    },
+    {
+        "Name": "Neo D1",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Boar Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Dakra Prime",
+                "Component": "Blade",
+                "Rarity": "Rare"
+            },
+            {
+                "Item": "Mag Prime",
+                "Component": "Systems",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Trinity Prime",
+                "Component": "Neuroptics",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Vasto Prime",
+                "Component": "Barrel",
+                "Rarity": "Common"
+            }
+        ]
+    },
+    {
+        "Name": "Lith M1",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Boar Prime",
+                "Component": "Receiver",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Dakra Prime",
+                "Component": "Blueprint",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Lex Prime",
+                "Component": "Receiver",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Mag Prime",
+                "Component": "Blueprint",
+                "Rarity": "Rare"
+            },
+            {
+                "Item": "Soma Prime",
+                "Component": "Blueprint",
+                "Rarity": "Uncommon"
+            }
+        ]
+    },
+    {
+        "Name": "Meso B1",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Boar Prime",
+                "Component": "Stock",
+                "Rarity": "Rare"
+            },
+            {
+                "Item": "Dakra Prime",
+                "Component": "Handle",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Mag Prime",
+                "Component": "Chassis",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Orthos Prime",
+                "Component": "Blueprint",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Orthos Prime",
+                "Component": "Handle",
+                "Rarity": "Common"
+            }
+        ]
+    },
+    {
+        "Name": "Meso N3",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Braton Prime",
+                "Component": "Barrel",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Bronco Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Burston Prime",
+                "Component": "Stock",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Carrier Prime",
+                "Component": "Cerebrum",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Euphona Prime",
+                "Component": "Barrel",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Nekros Prime",
+                "Component": "Blueprint",
+                "Rarity": "Rare"
+            }
+        ]
+    },
+    {
+        "Name": "Meso S5",
+        "Vaulted": false,
+        "Rewards": [
+            {
+                "Item": "Braton Prime",
+                "Component": "Barrel",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Burston Prime",
+                "Component": "Stock",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Lex Prime",
+                "Component": "Barrel",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Saryn Prime",
+                "Component": "Neuroptics",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Sybaris Prime",
+                "Component": "Barrel",
+                "Rarity": "Rare"
+            }
+        ]
+    },
+    {
+        "Name": "Lith N3",
+        "Vaulted": false,
+        "Rewards": [
+            {
+                "Item": "Braton Prime",
+                "Component": "Blueprint",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Burston Prime",
+                "Component": "Receiver",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Nekros Prime",
+                "Component": "Blueprint",
+                "Rarity": "Rare"
+            },
+            {
+                "Item": "Sybaris Prime",
+                "Component": "Stock",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Valkyr Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            }
+        ]
+    },
+    {
+        "Name": "Lith V3",
+        "Vaulted": false,
+        "Rewards": [
+            {
+                "Item": "Braton Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Cernos Prime",
+                "Component": "Upper Limb",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Helios Prime",
+                "Component": "Systems",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Paris Prime",
+                "Component": "Lower Limb",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Tigris Prime",
+                "Component": "Barrel",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Valkyr Prime",
+                "Component": "Systems",
+                "Rarity": "Rare"
+            }
+        ]
+    },
+    {
+        "Name": "Meso V1",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Braton Prime",
+                "Component": "Blueprint",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Burston Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Carrier Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Spira Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Vectis Prime",
+                "Component": "Receiver",
+                "Rarity": "Rare"
+            }
+        ]
+    },
+    {
+        "Name": "Axi C2",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Braton Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Cernos Prime",
+                "Component": "Lower Limb",
+                "Rarity": "Rare"
+            },
+            {
+                "Item": "Fragor Prime",
+                "Component": "Handle",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Silva & Aegis Prime",
+                "Component": "Blade",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Trinity Prime",
+                "Component": "Systems",
+                "Rarity": "Common"
+            }
+        ]
+    },
+    {
+        "Name": "Axi V3",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Braton Prime",
+                "Component": "Receiver",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Orthos Prime",
+                "Component": "Blueprint",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Trinity Prime",
+                "Component": "Neuroptics",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Trinity Prime",
+                "Component": "Systems",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Vasto Prime",
+                "Component": "Barrel",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Vectis Prime",
+                "Component": "Stock",
+                "Rarity": "Rare"
+            }
+        ]
+    },
+    {
+        "Name": "Axi V5",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Braton Prime",
+                "Component": "Receiver",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Dual Kamas Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Tigris Prime",
+                "Component": "Receiver",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Valkyr Prime",
+                "Component": "Chassis",
+                "Rarity": "Rare"
+            },
+            {
+                "Item": "Venka Prime",
+                "Component": "Blades",
+                "Rarity": "Common"
+            }
+        ]
+    },
+    {
+        "Name": "Meso N1",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Braton Prime",
+                "Component": "Stock",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Dual Kamas Prime",
+                "Component": "Handle",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Fang Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Fang Prime",
+                "Component": "Handle",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Nyx Prime",
+                "Component": "Neuroptics",
+                "Rarity": "Rare"
+            }
+        ]
+    },
+    {
+        "Name": "Neo V2",
+        "Vaulted": false,
+        "Rewards": [
+            {
+                "Item": "Braton Prime",
+                "Component": "Stock",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Fang Prime",
+                "Component": "Handle",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Galatine Prime",
+                "Component": "Blade",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Galatine Prime",
+                "Component": "Handle",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Vauban Prime",
+                "Component": "Blueprint",
+                "Rarity": "Rare"
+            }
+        ]
+    },
+    {
+        "Name": "Axi E2",
+        "Vaulted": false,
+        "Rewards": [
+            {
+                "Item": "Braton Prime",
+                "Component": "Stock",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Bronco Prime",
+                "Component": "Barrel",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Euphona Prime",
+                "Component": "Receiver",
+                "Rarity": "Rare"
+            },
+            {
+                "Item": "Lex Prime",
+                "Component": "Receiver",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Paris Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            }
+        ]
+    },
+    {
+        "Name": "Neo V1",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Bronco Prime",
+                "Component": "Barrel",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Dual Kamas Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Nova Prime",
+                "Component": "Chassis",
+                "Rarity": "Rare"
+            },
+            {
+                "Item": "Nyx Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Volt Prime",
+                "Component": "Blueprint",
+                "Rarity": "Uncommon"
+            }
+        ]
+    },
+    {
+        "Name": "Axi N3",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Bronco Prime",
+                "Component": "Barrel",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Dual Kamas Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Nekros Prime",
+                "Component": "Blueprint",
+                "Rarity": "Rare"
+            },
+            {
+                "Item": "Paris Prime",
+                "Component": "Upper Limb",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Volt Prime",
+                "Component": "Blueprint",
+                "Rarity": "Uncommon"
+            }
+        ]
+    },
+    {
+        "Name": "Lith S1",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Bronco Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Hikou Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Paris Prime",
+                "Component": "Grip",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Paris Prime",
+                "Component": "String",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Spira Prime",
+                "Component": "Pouch",
+                "Rarity": "Rare"
+            }
+        ]
+    },
+    {
+        "Name": "Meso C2",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Bronco Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Carrier Prime",
+                "Component": "Cerebrum",
+                "Rarity": "Rare"
+            },
+            {
+                "Item": "Cernos Prime",
+                "Component": "Upper Limb",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Galatine Prime",
+                "Component": "Blade",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Odonata Prime",
+                "Component": "Blueprint",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Valkyr Prime",
+                "Component": "Neuroptics",
+                "Rarity": "Uncommon"
+            }
+        ]
+    },
+    {
+        "Name": "Meso S2",
+        "Vaulted": false,
+        "Rewards": [
+            {
+                "Item": "Bronco Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Galatine Prime",
+                "Component": "Blade",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Paris Prime",
+                "Component": "Grip",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Paris Prime",
+                "Component": "String",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Saryn Prime",
+                "Component": "Chassis",
+                "Rarity": "Rare"
+            }
+        ]
+    },
+    {
+        "Name": "Meso V5",
+        "Vaulted": false,
+        "Rewards": [
+            {
+                "Item": "Bronco Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Cernos Prime",
+                "Component": "Grip",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Euphona Prime",
+                "Component": "Barrel",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Silva & Aegis Prime",
+                "Component": "Blueprint",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Spira Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Venka Prime",
+                "Component": "Gauntlet",
+                "Rarity": "Rare"
+            }
+        ]
+    },
+    {
+        "Name": "Meso F1",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Bronco Prime",
+                "Component": "Receiver",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Dual Kamas Prime",
+                "Component": "Handle",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Fragor Prime",
+                "Component": "Blueprint",
+                "Rarity": "Rare"
+            },
+            {
+                "Item": "Nekros Prime",
+                "Component": "Neuroptics",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Paris Prime",
+                "Component": "Lower Limb",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Saryn Prime",
+                "Component": "Systems",
+                "Rarity": "Common"
+            }
+        ]
+    },
+    {
+        "Name": "Neo N6",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Bronco Prime",
+                "Component": "Receiver",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Cernos Prime",
+                "Component": "Upper Limb",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Galatine Prime",
+                "Component": "Blade",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Nikana Prime",
+                "Component": "Hilt",
+                "Rarity": "Rare"
+            },
+            {
+                "Item": "Sybaris Prime",
+                "Component": "Receiver",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Trinity Prime",
+                "Component": "Blueprint",
+                "Rarity": "Uncommon"
+            }
+        ]
+    },
+    {
+        "Name": "Lith F2",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Burston Prime",
+                "Component": "Barrel",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Fang Prime",
+                "Component": "Handle",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Hikou Prime",
+                "Component": "Stars",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Odonata Prime",
+                "Component": "Systems",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Paris Prime",
+                "Component": "Upper Limb",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Vauban Prime",
+                "Component": "Blueprint",
+                "Rarity": "Rare"
+            }
+        ]
+    },
+    {
+        "Name": "Neo V5",
+        "Vaulted": false,
+        "Rewards": [
+            {
+                "Item": "Burston Prime",
+                "Component": "Barrel",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Helios Prime",
+                "Component": "Carapace",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Paris Prime",
+                "Component": "String",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Silva & Aegis Prime",
+                "Component": "Hilt",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Vauban Prime",
+                "Component": "Neuroptics",
+                "Rarity": "Rare"
+            }
+        ]
+    },
+    {
+        "Name": "Neo S6",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Burston Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Kavasa Prime Collar",
+                "Component": "Buckle",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Silva & Aegis Prime",
+                "Component": "Guard",
+                "Rarity": "Rare"
+            },
+            {
+                "Item": "Tigris Prime",
+                "Component": "Receiver",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Trinity Prime",
+                "Component": "Neuroptics",
+                "Rarity": "Common"
+            }
+        ]
+    },
+    {
+        "Name": "Neo S3",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Burston Prime",
+                "Component": "Receiver",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Carrier Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Soma Prime",
+                "Component": "Barrel",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Spira Prime",
+                "Component": "Blade",
+                "Rarity": "Rare"
+            },
+            {
+                "Item": "Vasto Prime",
+                "Component": "Blueprint",
+                "Rarity": "Uncommon"
+            }
+        ]
+    },
+    {
+        "Name": "Lith K1",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Burston Prime",
+                "Component": "Stock",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Fang Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Kavasa Prime Collar",
+                "Component": "Buckle",
+                "Rarity": "Rare"
+            },
+            {
+                "Item": "Odonata Prime",
+                "Component": "Harness",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Tigris Prime",
+                "Component": "Barrel",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Trinity Prime",
+                "Component": "Blueprint",
+                "Rarity": "Uncommon"
+            }
+        ]
+    },
+    {
+        "Name": "Lith V1",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Burston Prime",
+                "Component": "Stock",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Fragor Prime",
+                "Component": "Handle",
+                "Rarity": "Rare"
+            },
+            {
+                "Item": "Paris Prime",
+                "Component": "Lower Limb",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Paris Prime",
+                "Component": "Upper Limb",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Volt Prime",
+                "Component": "Systems",
+                "Rarity": "Uncommon"
+            }
+        ]
+    },
+    {
+        "Name": "Neo S2",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Burston Prime",
+                "Component": "Stock",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Nova Prime",
+                "Component": "Systems",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Nyx Prime",
+                "Component": "Systems",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Paris Prime",
+                "Component": "Lower Limb",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Paris Prime",
+                "Component": "Upper Limb",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Saryn Prime",
+                "Component": "Chassis",
+                "Rarity": "Rare"
+            }
+        ]
+    },
+    {
+        "Name": "Meso V3",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Carrier Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Kavasa Prime Collar",
+                "Component": "Band",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Spira Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Valkyr Prime",
+                "Component": "Systems",
+                "Rarity": "Rare"
+            },
+            {
+                "Item": "Volt Prime",
+                "Component": "Chassis",
+                "Rarity": "Uncommon"
+            }
+        ]
+    },
+    {
+        "Name": "Neo S1",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Carrier Prime",
+                "Component": "Carapace",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Lex Prime",
+                "Component": "Barrel",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Saryn Prime",
+                "Component": "Blueprint",
+                "Rarity": "Rare"
+            },
+            {
+                "Item": "Soma Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Trinity Prime",
+                "Component": "Chassis",
+                "Rarity": "Uncommon"
+            }
+        ]
+    },
+    {
+        "Name": "Lith C1",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Carrier Prime",
+                "Component": "Cerebrum",
+                "Rarity": "Rare"
+            },
+            {
+                "Item": "Fang Prime",
+                "Component": "Blade",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Kavasa Prime Collar",
+                "Component": "Band",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Nova Prime",
+                "Component": "Neuroptics",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Nova Prime",
+                "Component": "Systems",
+                "Rarity": "Common"
+            }
+        ]
+    },
+    {
+        "Name": "Lith N2",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Carrier Prime",
+                "Component": "Systems",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Helios Prime",
+                "Component": "Blueprint",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Kavasa Prime Collar",
+                "Component": "Band",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Nekros Prime",
+                "Component": "Systems",
+                "Rarity": "Rare"
+            },
+            {
+                "Item": "Paris Prime",
+                "Component": "Upper Limb",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Spira Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            }
+        ]
+    },
+    {
+        "Name": "Neo V3",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Carrier Prime",
+                "Component": "Systems",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Galatine Prime",
+                "Component": "Blade",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Paris Prime",
+                "Component": "String",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Tigris Prime",
+                "Component": "Receiver",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Vauban Prime",
+                "Component": "Neuroptics",
+                "Rarity": "Rare"
+            }
+        ]
+    },
+    {
+        "Name": "Axi V1",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Carrier Prime",
+                "Component": "Systems",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Dual Kamas Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Odonata Prime",
+                "Component": "Systems",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Vauban Prime",
+                "Component": "Chassis",
+                "Rarity": "Rare"
+            },
+            {
+                "Item": "Volt Prime",
+                "Component": "Neuroptics",
+                "Rarity": "Uncommon"
+            }
+        ]
+    },
+    {
+        "Name": "Axi V4",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Cernos Prime",
+                "Component": "Blueprint",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Odonata Prime",
+                "Component": "Harness",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Paris Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Trinity Prime",
+                "Component": "Systems",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Vectis Prime",
+                "Component": "Stock",
+                "Rarity": "Rare"
+            }
+        ]
+    },
+    {
+        "Name": "Axi C1",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Cernos Prime",
+                "Component": "Lower Limb",
+                "Rarity": "Rare"
+            },
+            {
+                "Item": "Lex Prime",
+                "Component": "Receiver",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Orthos Prime",
+                "Component": "Blueprint",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Trinity Prime",
+                "Component": "Neuroptics",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Vectis Prime",
+                "Component": "Barrel",
+                "Rarity": "Common"
+            }
+        ]
+    },
+    {
+        "Name": "Meso S6",
+        "Vaulted": false,
+        "Rewards": [
+            {
+                "Item": "Cernos Prime",
+                "Component": "String",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Galatine Prime",
+                "Component": "Blade",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Helios Prime",
+                "Component": "Carapace",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Spira Prime",
+                "Component": "Blade",
+                "Rarity": "Rare"
+            },
+            {
+                "Item": "Tigris Prime",
+                "Component": "Receiver",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Valkyr Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            }
+        ]
+    },
+    {
+        "Name": "Meso D1",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Dual Kamas Prime",
+                "Component": "Blade",
+                "Rarity": "Rare"
+            },
+            {
+                "Item": "Lex Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Orthos Prime",
+                "Component": "Blade",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Orthos Prime",
+                "Component": "Handle",
+                "Rarity": "Common"
+            }
+        ]
+    },
+    {
+        "Name": "Lith S6",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Dual Kamas Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Fang Prime",
+                "Component": "Blade",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Kavasa Prime Collar",
+                "Component": "Band",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Spira Prime",
+                "Component": "Pouch",
+                "Rarity": "Rare"
+            },
+            {
+                "Item": "Valkyr Prime",
+                "Component": "Neuroptics",
+                "Rarity": "Uncommon"
+            }
+        ]
+    },
+    {
+        "Name": "Axi E1",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Ember Prime",
+                "Component": "Blueprint",
+                "Rarity": "Rare"
+            },
+            {
+                "Item": "Frost Prime",
+                "Component": "Neuroptics",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Glaive Prime",
+                "Component": "Blade",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Latron Prime",
+                "Component": "Barrel",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Sicarus Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            }
+        ]
+    },
+    {
+        "Name": "Meso F2",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Ember Prime",
+                "Component": "Chassis",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Frost Prime",
+                "Component": "Blueprint",
+                "Rarity": "Rare"
+            },
+            {
+                "Item": "Latron Prime",
+                "Component": "Stock",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Reaper Prime",
+                "Component": "Blade",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Sicarus Prime",
+                "Component": "Barrel",
+                "Rarity": "Common"
+            }
+        ]
+    },
+    {
+        "Name": "Neo S5",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Ember Prime",
+                "Component": "Neuroptics",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Frost Prime",
+                "Component": "Systems",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Glaive Prime",
+                "Component": "Disc",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Latron Prime",
+                "Component": "Receiver",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Reaper Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Sicarus Prime",
+                "Component": "Receiver",
+                "Rarity": "Rare"
+            }
+        ]
+    },
+    {
+        "Name": "Lith G1",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Ember Prime",
+                "Component": "Systems",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Frost Prime",
+                "Component": "Chassis",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Glaive Prime",
+                "Component": "Blueprint",
+                "Rarity": "Rare"
+            },
+            {
+                "Item": "Latron Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Reaper Prime",
+                "Component": "Handle",
+                "Rarity": "Common"
+            }
+        ]
+    },
+    {
+        "Name": "Lith F1",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Fang Prime",
+                "Component": "Blade",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Fragor Prime",
+                "Component": "Blueprint",
+                "Rarity": "Rare"
+            },
+            {
+                "Item": "Odonata Prime",
+                "Component": "Blueprint",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Paris Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Scindo Prime",
+                "Component": "Blueprint",
+                "Rarity": "Uncommon"
+            }
+        ]
+    },
+    {
+        "Name": "Lith V2",
+        "Vaulted": false,
+        "Rewards": [
+            {
+                "Item": "Fang Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Lex Prime",
+                "Component": "Barrel",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Paris Prime",
+                "Component": "Lower Limb",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Paris Prime",
+                "Component": "Upper Limb",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Vauban Prime",
+                "Component": "Systems",
+                "Rarity": "Rare"
+            }
+        ]
+    },
+    {
+        "Name": "Neo N2",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Fang Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Lex Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Nova Prime",
+                "Component": "Blueprint",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Vasto Prime",
+                "Component": "Barrel",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Vauban Prime",
+                "Component": "Systems",
+                "Rarity": "Rare"
+            }
+        ]
+    },
+    {
+        "Name": "Axi G1",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Galatine Prime",
+                "Component": "Blueprint",
+                "Rarity": "Rare"
+            },
+            {
+                "Item": "Kavasa Prime Collar",
+                "Component": "Blueprint",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Nekros Prime",
+                "Component": "Chassis",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Paris Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Saryn Prime",
+                "Component": "Systems",
+                "Rarity": "Common"
+            }
+        ]
+    },
+    {
+        "Name": "Lith V4",
+        "Vaulted": false,
+        "Rewards": [
+            {
+                "Item": "Helios Prime",
+                "Component": "Blueprint",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Nekros Prime",
+                "Component": "Chassis",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Spira Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Tigris Prime",
+                "Component": "Barrel",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Vauban Prime",
+                "Component": "Chassis",
+                "Rarity": "Rare"
+            },
+            {
+                "Item": "Venka Prime",
+                "Component": "Blades",
+                "Rarity": "Common"
+            }
+        ]
+    },
+    {
+        "Name": "Neo N1",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Hikou Prime",
+                "Component": "Stars",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Kavasa Prime Collar",
+                "Component": "Blueprint",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Nyx Prime",
+                "Component": "Chassis",
+                "Rarity": "Rare"
+            },
+            {
+                "Item": "Soma Prime",
+                "Component": "Receiver",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Vectis Prime",
+                "Component": "Barrel",
+                "Rarity": "Common"
+            }
+        ]
+    },
+    {
+        "Name": "Lith S4",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Kavasa Prime Collar",
+                "Component": "Blueprint",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Lex Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Paris Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Saryn Prime",
+                "Component": "Blueprint",
+                "Rarity": "Rare"
+            },
+            {
+                "Item": "Trinity Prime",
+                "Component": "Chassis",
+                "Rarity": "Uncommon"
+            }
+        ]
+    },
+    {
+        "Name": "Meso N4",
+        "Vaulted": false,
+        "Rewards": [
+            {
+                "Item": "Nikana Prime",
+                "Component": "Blade",
+                "Rarity": "Rare"
+            },
+            {
+                "Item": "Oberon Prime",
+                "Component": "Blueprint",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Orthos Prime",
+                "Component": "Handle",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Paris Prime",
+                "Component": "Upper Limb",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Saryn Prime",
+                "Component": "Systems",
+                "Rarity": "Common"
+            }
+        ]
+    },
+    {
+        "Name": "Meso S1",
+        "Vaulted": true,
+        "Rewards": [
+            {
+                "Item": "Nova Prime",
+                "Component": "Systems",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Odonata Prime",
+                "Component": "Blueprint",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Paris Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Paris Prime",
+                "Component": "Upper Limb",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Soma Prime",
+                "Component": "Stock",
+                "Rarity": "Rare"
+            },
+            {
+                "Item": "Tigris Prime",
+                "Component": "Stock",
+                "Rarity": "Common"
+            }
+        ]
+    },
+    {
+        "Name": "Axi N4",
+        "Vaulted": false,
+        "Rewards": [
+            {
+                "Item": "Cernos Prime",
+                "Component": "Upper Limb",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Nekros Prime",
+                "Component": "Chassis",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Galatine Prime",
+                "Component": "Blade",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Fragor Prime",
+                "Component": "Handle",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Hydroid Prime",
+                "Component": "Neuroptics",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Nikana Prime",
+                "Component": "Hilt",
+                "Rarity": "Rare"
+            }
+        ]
+    },
+    {
+        "Name": "Axi N5",
+        "Vaulted": false,
+        "Rewards": [
+            {
+                "Item": "Euphona Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Lex Prime",
+                "Component": "Barrel",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Oberon Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Helios Prime",
+                "Component": "Systems",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Nekros Prime",
+                "Component": "Neuroptics",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Nami Skyla Prime",
+                "Component": "Blade",
+                "Rarity": "Rare"
+            }
+        ]
+    },
+    {
+        "Name": "Axi V6",
+        "Vaulted": false,
+        "Rewards": [
+            {
+                "Item": "Ballistica Prime",
+                "Component": "Lower Limb",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Braton Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Fang Prime",
+                "Component": "Handle",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Galatine Prime",
+                "Component": "Handle",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Valkyr Prime",
+                "Component": "Chassis",
+                "Rarity": "Rare"
+            }
+        ]
+    },
+    {
+        "Name": "Lith B2",
+        "Vaulted": false,
+        "Rewards": [
+            {
+                "Item": "Paris Prime Prime",
+                "Component": "Lower Limb",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Tigris Prime",
+                "Component": "Stock",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Braton Prime",
+                "Component": "Receiver",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Orthos Prime",
+                "Component": "Blade",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Ballistica Prime",
+                "Component": "Blueprint",
+                "Rarity": "Rare"
+            }
+        ]
+    },
+    {
+        "Name": "Lith H1",
+        "Vaulted": false,
+        "Rewards": [
+            {
+                "Item": "Bronco Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Paris Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Saryn Prime",
+                "Component": "Systems",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Akstiletto Prime",
+                "Component": "Barrel",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Nami Skyla Prime",
+                "Component": "Handle",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Helios Prime",
+                "Component": "Cerebrum",
+                "Rarity": "Rare"
+            }
+        ]
+    },
+    {
+        "Name": "Lith T1",
+        "Vaulted": false,
+        "Rewards": [
+            {
+                "Item": "Akbronco Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Burston Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Ballistica Prime",
+                "Component": "Upper Limb",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Valkyr Prime",
+                "Component": "Neuroptics",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Tigris Prime",
+                "Component": "Blueprint",
+                "Rarity": "Rare"
+            }
+        ]
+    },
+    {
+        "Name": "Meso C3",
+        "Vaulted": false,
+        "Rewards": [
+            {
+                "Item": "Burston Prime",
+                "Component": "Stock",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Lex Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Nami Skyla Prime",
+                "Component": "Blueprint",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Helios Prime",
+                "Component": "Blueprint",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Saryn Prime",
+                "Component": "Blueprint",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Cernos Prime",
+                "Component": "Lower Limb",
+                "Rarity": "Rare"
+            }
+        ]
+    },
+    {
+        "Name": "Meso G1",
+        "Vaulted": false,
+        "Rewards": [
+            {
+                "Item": "Braton Prime",
+                "Component": "Barrel",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Venka Prime",
+                "Component": "Blades",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Ballistica Prime",
+                "Component": "String",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Silva & Aegis Prime",
+                "Component": "Blade",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Galatine Prime",
+                "Component": "Blueprint",
+                "Rarity": "Rare"
+            }
+        ]
+    },
+    {
+        "Name": "Meso N5",
+        "Vaulted": false,
+        "Rewards": [
+            {
+                "Item": "Braton Prime",
+                "Component": "Stock",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Lex Prime",
+                "Component": "receiver",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Hydroid Prime",
+                "Component": "Blueprint",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Tigris Prime",
+                "Component": "Receiver",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Nekros Prime",
+                "Component": "Systems",
+                "Rarity": "Rare"
+            }
+        ]
+    },
+    {
+        "Name": "Neo H1",
+        "Vaulted": false,
+        "Rewards": [
+            {
+                "Item": "Burston Prime",
+                "Component": "Receiver",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Fragor Prime",
+                "Component": "Head",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Orthos Prime",
+                "Component": "Handle",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Banshee Prime",
+                "Component": "Blueprint",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Tigris Prime",
+                "Component": "Barrel",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Hydroid Prime",
+                "Component": "Systems",
+                "Rarity": "Rare"
+            }
+        ]
+    },
+    {
+        "Name": "Neo S7",
+        "Vaulted": false,
+        "Rewards": [
+            {
+                "Item": "Banshee Prime",
+                "Component": "Neuroptics",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Fang Prime",
+                "Component": "Blade",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Helios Prime",
+                "Component": "Carapace",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Ballistica Prime",
+                "Component": "Receiver",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Sybaris Prime",
+                "Component": "Receiver",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Silva & Aegis Prime",
+                "Component": "Guard",
+                "Rarity": "Rare"
+            }
+        ]
+    },
+    {
+        "Name": "Neo S8",
+        "Vaulted": false,
+        "Rewards": [
+            {
+                "Item": "Bronco Prime",
+                "Component": "Receiver",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Hydroid Prime",
+                "Component": "Chassis",
+                "Rarity": "Common"
+            },
+            {
+                "Item": "Fragor Prime",
+                "Component": "Blueprint",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Nikana Prime",
+                "Component": "Blueprint",
+                "Rarity": "Uncommon"
+            },
+            {
+                "Item": "Spira Prime",
+                "Component": "Pouch",
+                "Rarity": "Rare"
+            }
+        ]
+    }
+]
