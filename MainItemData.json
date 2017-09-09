@@ -1341,19 +1341,13 @@
                         "Rarity": "Common"
                     },
                     {
-                        "Name": "Axi C1",
-                        "Vaulted": true,
-                        "Rarity": "Common"
-                    }
-                ],
-                "Ducats": 15
-            },
-            {
-                "Name": "receiver",
-                "Relics": [
-                    {
                         "Name": "Meso N5",
                         "Vaulted": false,
+                        "Rarity": "Common"
+                    },
+                    {
+                        "Name": "Axi C1",
+                        "Vaulted": true,
                         "Rarity": "Common"
                     }
                 ],
