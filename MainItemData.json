@@ -9,6 +9,11 @@
                         "Name": "Axi E1",
                         "Vaulted": true,
                         "Rarity": "Common"
+                    },
+                    {
+                        "Name": "Neo E1",
+                        "Vaulted": true,
+                        "Rarity": "Common"
                     }
                 ],
                 "Ducats": 15
@@ -18,6 +23,16 @@
                 "Relics": [
                     {
                         "Name": "Meso F2",
+                        "Vaulted": true,
+                        "Rarity": "Rare"
+                    },
+                    {
+                        "Name": "Meso F3",
+                        "Vaulted": true,
+                        "Rarity": "Rare"
+                    },
+                    {
+                        "Name": "Neo F1",
                         "Vaulted": true,
                         "Rarity": "Rare"
                     }
@@ -31,6 +46,11 @@
                         "Name": "Neo S5",
                         "Vaulted": true,
                         "Rarity": "Uncommon"
+                    },
+                    {
+                        "Name": "Lith G2",
+                        "Vaulted": true,
+                        "Rarity": "Uncommon"
                     }
                 ],
                 "Ducats": 45
@@ -40,6 +60,11 @@
                 "Relics": [
                     {
                         "Name": "Lith G1",
+                        "Vaulted": true,
+                        "Rarity": "Common"
+                    },
+                    {
+                        "Name": "Meso E1",
                         "Vaulted": true,
                         "Rarity": "Common"
                     }
@@ -62,6 +87,11 @@
                         "Name": "Axi E1",
                         "Vaulted": true,
                         "Rarity": "Common"
+                    },
+                    {
+                        "Name": "Meso E1",
+                        "Vaulted": true,
+                        "Rarity": "Common"
                     }
                 ],
                 "Ducats": 15
@@ -71,6 +101,11 @@
                 "Relics": [
                     {
                         "Name": "Meso F2",
+                        "Vaulted": true,
+                        "Rarity": "Common"
+                    },
+                    {
+                        "Name": "Lith G2",
                         "Vaulted": true,
                         "Rarity": "Common"
                     }
@@ -84,6 +119,11 @@
                         "Name": "Neo S5",
                         "Vaulted": true,
                         "Rarity": "Common"
+                    },
+                    {
+                        "Name": "Axi S2",
+                        "Vaulted": true,
+                        "Rarity": "Common"
                     }
                 ],
                 "Ducats": 15
@@ -93,6 +133,11 @@
                 "Relics": [
                     {
                         "Name": "Lith G1",
+                        "Vaulted": true,
+                        "Rarity": "Common"
+                    },
+                    {
+                        "Name": "Axi L1",
                         "Vaulted": true,
                         "Rarity": "Common"
                     }
@@ -115,6 +160,11 @@
                         "Name": "Meso F2",
                         "Vaulted": true,
                         "Rarity": "Uncommon"
+                    },
+                    {
+                        "Name": "Neo E1",
+                        "Vaulted": true,
+                        "Rarity": "Uncommon"
                     }
                 ],
                 "Ducats": 45
@@ -126,6 +176,11 @@
                         "Name": "Neo S5",
                         "Vaulted": true,
                         "Rarity": "Common"
+                    },
+                    {
+                        "Name": "Axi L1",
+                        "Vaulted": true,
+                        "Rarity": "Common"
                     }
                 ],
                 "Ducats": 15
@@ -135,6 +190,11 @@
                 "Relics": [
                     {
                         "Name": "Lith G1",
+                        "Vaulted": true,
+                        "Rarity": "Common"
+                    },
+                    {
+                        "Name": "Meso F3",
                         "Vaulted": true,
                         "Rarity": "Common"
                     }
@@ -1093,6 +1153,16 @@
                         "Name": "Axi E1",
                         "Vaulted": true,
                         "Rarity": "Rare"
+                    },
+                    {
+                        "Name": "Meso E1",
+                        "Vaulted": true,
+                        "Rarity": "Rare"
+                    },
+                    {
+                        "Name": "Neo E1",
+                        "Vaulted": true,
+                        "Rarity": "Rare"
                     }
                 ],
                 "Ducats": 100
@@ -1102,6 +1172,11 @@
                 "Relics": [
                     {
                         "Name": "Meso F2",
+                        "Vaulted": true,
+                        "Rarity": "Common"
+                    },
+                    {
+                        "Name": "Neo F1",
                         "Vaulted": true,
                         "Rarity": "Common"
                     }
@@ -1115,6 +1190,11 @@
                         "Name": "Neo S5",
                         "Vaulted": true,
                         "Rarity": "Common"
+                    },
+                    {
+                        "Name": "Meso F3",
+                        "Vaulted": true,
+                        "Rarity": "Common"
                     }
                 ],
                 "Ducats": 15
@@ -1124,6 +1204,11 @@
                 "Relics": [
                     {
                         "Name": "Lith G1",
+                        "Vaulted": true,
+                        "Rarity": "Uncommon"
+                    },
+                    {
+                        "Name": "Axi S2",
                         "Vaulted": true,
                         "Rarity": "Uncommon"
                     }
@@ -1146,6 +1231,11 @@
                         "Name": "Axi E1",
                         "Vaulted": true,
                         "Rarity": "Uncommon"
+                    },
+                    {
+                        "Name": "Axi L1",
+                        "Vaulted": true,
+                        "Rarity": "Uncommon"
                     }
                 ],
                 "Ducats": 45
@@ -1157,6 +1247,11 @@
                         "Name": "Neo S5",
                         "Vaulted": true,
                         "Rarity": "Uncommon"
+                    },
+                    {
+                        "Name": "Meso F3",
+                        "Vaulted": true,
+                        "Rarity": "Uncommon"
                     }
                 ],
                 "Ducats": 45
@@ -1166,6 +1261,11 @@
                 "Relics": [
                     {
                         "Name": "Lith G1",
+                        "Vaulted": true,
+                        "Rarity": "Rare"
+                    },
+                    {
+                        "Name": "Lith G2",
                         "Vaulted": true,
                         "Rarity": "Rare"
                     }
@@ -1188,6 +1288,11 @@
                         "Name": "Axi E1",
                         "Vaulted": true,
                         "Rarity": "Common"
+                    },
+                    {
+                        "Name": "Neo F1",
+                        "Vaulted": true,
+                        "Rarity": "Common"
                     }
                 ],
                 "Ducats": 15
@@ -1199,6 +1304,11 @@
                         "Name": "Meso F2",
                         "Vaulted": true,
                         "Rarity": "Common"
+                    },
+                    {
+                        "Name": "Neo F1",
+                        "Vaulted": true,
+                        "Rarity": "Common"
                     }
                 ],
                 "Ducats": 15
@@ -1208,6 +1318,11 @@
                 "Relics": [
                     {
                         "Name": "Neo S5",
+                        "Vaulted": true,
+                        "Rarity": "Rare"
+                    },
+                    {
+                        "Name": "Axi S2",
                         "Vaulted": true,
                         "Rarity": "Rare"
                     }
@@ -1711,17 +1826,35 @@
             {
                 "Name": "Blueprint",
                 "Ducats": 15,
-                "Relics": []
+                "Relics": [
+                    {
+                        "Name": "Lith G2",
+                        "Vaulted": true,
+                        "Rarity": "Common"
+                    }
+                ]
             },
             {
                 "Name": "Ornament",
                 "Ducats": 15,
-                "Relics": []
+                "Relics": [
+                    {
+                        "Name": "Meso E1",
+                        "Vaulted": true,
+                        "Rarity": "Common"
+                    }
+                ]
             },
             {
                 "Name": "Handle",
                 "Ducats": 45,
-                "Relics": []
+                "Relics": [
+                    {
+                        "Name": "Neo F1",
+                        "Vaulted": true,
+                        "Rarity": "Uncommon"
+                    }
+                ]
             }
         ],
         "ReleaseDate": "2014 06 11",
@@ -1735,22 +1868,51 @@
             {
                 "Name": "Blueprint",
                 "Ducats": 15,
-                "Relics": []
+                "Relics": [
+                    {
+                        "Name": "Meso F3",
+                        "Vaulted": true,
+                        "Rarity": "Common"
+                    },
+                    {
+                        "Name": "Axi S2",
+                        "Vaulted": true,
+                        "Rarity": "Common"
+                    }
+                ]
             },
             {
                 "Name": "Chassis",
                 "Ducats": 45,
-                "Relics": []
+                "Relics": [
+                    {
+                        "Name": "Lith G2",
+                        "Vaulted": true,
+                        "Rarity": "Uncommon"
+                    }
+                ]
             },
             {
                 "Name": "Neuroptics",
                 "Ducats": 15,
-                "Relics": []
+                "Relics": [
+                    {
+                        "Name": "Neo E1",
+                        "Vaulted": true,
+                        "Rarity": "Common"
+                    }
+                ]
             },
             {
                 "Name": "Systems",
                 "Ducats": 100,
-                "Relics": []
+                "Relics": [
+                    {
+                        "Name": "Axi L1",
+                        "Vaulted": true,
+                        "Rarity": "Rare"
+                    }
+                ]
             }
         ],
         "ReleaseDate": "2014 06 11",
@@ -1764,22 +1926,51 @@
             {
                 "Name": "Blueprint",
                 "Ducats": 15,
-                "Relics": []
+                "Relics": [
+                    {
+                        "Name": "Neo E1",
+                        "Vaulted": true,
+                        "Rarity": "Common"
+                    },
+                    {
+                        "Name": "Axi S2",
+                        "Vaulted": true,
+                        "Rarity": "Common"
+                    }
+                ]
             },
             {
                 "Name": "Cerebrum",
                 "Ducats": 15,
-                "Relics": []
+                "Relics": [
+                    {
+                        "Name": "Lith G2",
+                        "Vaulted": true,
+                        "Rarity": "Common"
+                    }
+                ]
             },
             {
                 "Name": "Carapace",
                 "Ducats": 15,
-                "Relics": []
+                "Relics": [
+                    {
+                        "Name": "Axi L1",
+                        "Vaulted": true,
+                        "Rarity": "Common"
+                    }
+                ]
             },
             {
                 "Name": "Systems",
                 "Ducats": 45,
-                "Relics": []
+                "Relics": [
+                    {
+                        "Name": "Meso E1",
+                        "Vaulted": true,
+                        "Rarity": "Uncommon"
+                    }
+                ]
             }
         ],
         "ReleaseDate": "2014 06 11",
