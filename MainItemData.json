@@ -245,7 +245,7 @@
                     },
                     {
                         "Name": "Neo V5",
-                        "Vaulted": false,
+                        "Vaulted": true,
                         "Rarity": "Common"
                     },
                     {
@@ -257,6 +257,11 @@
                         "Name": "Neo M1",
                         "Vaulted": false,
                         "Rarity": "Common"
+                    },
+                    {
+                        "Name": "Axi O2",
+                        "Vaulted": false,
+                        "Rarity": "Common"
                     }
                 ],
                 "Ducats": 15
@@ -266,7 +271,7 @@
                 "Relics": [
                     {
                         "Name": "Meso O1",
-                        "Vaulted": false,
+                        "Vaulted": true,
                         "Rarity": "Common"
                     },
                     {
@@ -291,11 +296,21 @@
                     },
                     {
                         "Name": "Lith V2",
-                        "Vaulted": false,
+                        "Vaulted": true,
                         "Rarity": "Common"
                     },
                     {
                         "Name": "Lith B2",
+                        "Vaulted": false,
+                        "Rarity": "Common"
+                    },
+                    {
+                        "Name": "Meso O2",
+                        "Vaulted": false,
+                        "Rarity": "Common"
+                    },
+                    {
+                        "Name": "Meso T2",
                         "Vaulted": false,
                         "Rarity": "Common"
                     }
@@ -307,7 +322,7 @@
                 "Relics": [
                     {
                         "Name": "Axi O1",
-                        "Vaulted": false,
+                        "Vaulted": true,
                         "Rarity": "Common"
                     },
                     {
@@ -352,6 +367,11 @@
                     },
                     {
                         "Name": "Meso H1",
+                        "Vaulted": true,
+                        "Rarity": "Common"
+                    },
+                    {
+                        "Name": "Neo Z1",
                         "Vaulted": false,
                         "Rarity": "Common"
                     }
@@ -388,7 +408,7 @@
                     },
                     {
                         "Name": "Lith V2",
-                        "Vaulted": false,
+                        "Vaulted": true,
                         "Rarity": "Uncommon"
                     },
                     {
@@ -405,6 +425,11 @@
                         "Name": "Lith C2",
                         "Vaulted": false,
                         "Rarity": "Common"
+                    },
+                    {
+                        "Name": "Meso T1",
+                        "Vaulted": false,
+                        "Rarity": "Uncommon"
                     }
                 ],
                 "Ducats": 25
@@ -596,7 +621,7 @@
                     },
                     {
                         "Name": "Axi B2",
-                        "Vaulted": false,
+                        "Vaulted": true,
                         "Rarity": "Common"
                     },
                     {
@@ -616,6 +641,11 @@
                     },
                     {
                         "Name": "Neo S7",
+                        "Vaulted": false,
+                        "Rarity": "Common"
+                    },
+                    {
+                        "Name": "Axi O2",
                         "Vaulted": false,
                         "Rarity": "Common"
                     }
@@ -652,7 +682,7 @@
                     },
                     {
                         "Name": "Neo V2",
-                        "Vaulted": false,
+                        "Vaulted": true,
                         "Rarity": "Common"
                     },
                     {
@@ -664,6 +694,11 @@
                         "Name": "Axi V6",
                         "Vaulted": false,
                         "Rarity": "Uncommon"
+                    },
+                    {
+                        "Name": "Lith Z1",
+                        "Vaulted": false,
+                        "Rarity": "Common"
                     }
                 ],
                 "Ducats": 25
@@ -693,12 +728,17 @@
                     },
                     {
                         "Name": "Lith V2",
-                        "Vaulted": false,
+                        "Vaulted": true,
                         "Rarity": "Common"
                     },
                     {
                         "Name": "Neo N2",
                         "Vaulted": true,
+                        "Rarity": "Common"
+                    },
+                    {
+                        "Name": "Meso T1",
+                        "Vaulted": false,
                         "Rarity": "Common"
                     }
                 ],
@@ -738,7 +778,7 @@
                     },
                     {
                         "Name": "Neo V2",
-                        "Vaulted": false,
+                        "Vaulted": true,
                         "Rarity": "Common"
                     },
                     {
@@ -748,6 +788,11 @@
                     },
                     {
                         "Name": "Meso N5",
+                        "Vaulted": false,
+                        "Rarity": "Common"
+                    },
+                    {
+                        "Name": "Meso T1",
                         "Vaulted": false,
                         "Rarity": "Common"
                     }
@@ -866,7 +911,7 @@
                 "Relics": [
                     {
                         "Name": "Axi B2",
-                        "Vaulted": false,
+                        "Vaulted": true,
                         "Rarity": "Uncommon"
                     },
                     {
@@ -882,6 +927,11 @@
                     {
                         "Name": "Axi C1",
                         "Vaulted": true,
+                        "Rarity": "Uncommon"
+                    },
+                    {
+                        "Name": "Lith H2",
+                        "Vaulted": false,
                         "Rarity": "Uncommon"
                     }
                 ],
@@ -907,11 +957,21 @@
                     },
                     {
                         "Name": "Neo H1",
-                        "Vaulted": false,
+                        "Vaulted": true,
                         "Rarity": "Common"
                     },
                     {
                         "Name": "Meso K1",
+                        "Vaulted": true,
+                        "Rarity": "Common"
+                    },
+                    {
+                        "Name": "Axi K2",
+                        "Vaulted": false,
+                        "Rarity": "Common"
+                    },
+                    {
+                        "Name": "Neo Z1",
                         "Vaulted": false,
                         "Rarity": "Common"
                     }
@@ -1358,6 +1418,11 @@
                     },
                     {
                         "Name": "Neo H1",
+                        "Vaulted": true,
+                        "Rarity": "Common"
+                    },
+                    {
+                        "Name": "Meso T1",
                         "Vaulted": false,
                         "Rarity": "Common"
                     }
@@ -1384,6 +1449,11 @@
                     },
                     {
                         "Name": "Neo V5",
+                        "Vaulted": true,
+                        "Rarity": "Uncommon"
+                    },
+                    {
+                        "Name": "Axi H3",
                         "Vaulted": false,
                         "Rarity": "Uncommon"
                     }
@@ -1451,6 +1521,11 @@
                     },
                     {
                         "Name": "Neo V6",
+                        "Vaulted": true,
+                        "Rarity": "Common"
+                    },
+                    {
+                        "Name": "Neo B4",
                         "Vaulted": false,
                         "Rarity": "Common"
                     }
@@ -1629,7 +1704,7 @@
                     },
                     {
                         "Name": "Meso O1",
-                        "Vaulted": false,
+                        "Vaulted": true,
                         "Rarity": "Common"
                     },
                     {
@@ -1641,6 +1716,11 @@
                         "Name": "Lith T1",
                         "Vaulted": false,
                         "Rarity": "Common"
+                    },
+                    {
+                        "Name": "Lith Z1",
+                        "Vaulted": false,
+                        "Rarity": "Common"
                     }
                 ],
                 "Ducats": 15
@@ -1650,7 +1730,7 @@
                 "Relics": [
                     {
                         "Name": "Lith A2",
-                        "Vaulted": false,
+                        "Vaulted": true,
                         "Rarity": "Uncommon"
                     },
                     {
@@ -1666,6 +1746,11 @@
                     {
                         "Name": "Axi S1",
                         "Vaulted": true,
+                        "Rarity": "Uncommon"
+                    },
+                    {
+                        "Name": "Meso O2",
+                        "Vaulted": false,
                         "Rarity": "Uncommon"
                     }
                 ],
@@ -1685,7 +1770,7 @@
                 "Relics": [
                     {
                         "Name": "Lith A2",
-                        "Vaulted": false,
+                        "Vaulted": true,
                         "Rarity": "Common"
                     },
                     {
@@ -1720,7 +1805,7 @@
                     },
                     {
                         "Name": "Lith V2",
-                        "Vaulted": false,
+                        "Vaulted": true,
                         "Rarity": "Common"
                     },
                     {
@@ -1730,6 +1815,16 @@
                     },
                     {
                         "Name": "Axi V7",
+                        "Vaulted": false,
+                        "Rarity": "Common"
+                    },
+                    {
+                        "Name": "Lith H2",
+                        "Vaulted": false,
+                        "Rarity": "Common"
+                    },
+                    {
+                        "Name": "Meso T2",
                         "Vaulted": false,
                         "Rarity": "Common"
                     }
@@ -3364,7 +3459,7 @@
                 "Relics": [
                     {
                         "Name": "Meso O1",
-                        "Vaulted": false,
+                        "Vaulted": true,
                         "Rarity": "Uncommon"
                     },
                     {
@@ -3385,7 +3480,7 @@
                 "Relics": [
                     {
                         "Name": "Lith A2",
-                        "Vaulted": false,
+                        "Vaulted": true,
                         "Rarity": "Rare"
                     },
                     {
@@ -3421,7 +3516,7 @@
                     },
                     {
                         "Name": "Meso K1",
-                        "Vaulted": false,
+                        "Vaulted": true,
                         "Rarity": "Uncommon"
                     }
                 ],
@@ -3442,7 +3537,7 @@
                     },
                     {
                         "Name": "Axi O1",
-                        "Vaulted": false,
+                        "Vaulted": true,
                         "Rarity": "Uncommon"
                     },
                     {
@@ -3454,10 +3549,10 @@
                 "Ducats": 45
             }
         ],
-        "Vaulted": false,
+        "Vaulted": true,
         "ReleaseDate": "2016 05 17",
-        "VaultedDate": "n/a",
-        "EstimatedVaultedDate": "2018 03 18"
+        "VaultedDate": "2018 03 20",
+        "EstimatedVaultedDate": "2018 03 20"
     },
     {
         "Name": "Fragor Prime",
@@ -3477,12 +3572,12 @@
                     },
                     {
                         "Name": "Axi B2",
-                        "Vaulted": false,
+                        "Vaulted": true,
                         "Rarity": "Common"
                     },
                     {
                         "Name": "Neo H1",
-                        "Vaulted": false,
+                        "Vaulted": true,
                         "Rarity": "Common"
                     }
                 ],
@@ -3513,7 +3608,7 @@
                     },
                     {
                         "Name": "Neo V6",
-                        "Vaulted": false,
+                        "Vaulted": true,
                         "Rarity": "Uncommon"
                     }
                 ],
@@ -3539,17 +3634,17 @@
                     },
                     {
                         "Name": "Meso H1",
-                        "Vaulted": false,
+                        "Vaulted": true,
                         "Rarity": "Uncommon"
                     }
                 ],
                 "Ducats": 65
             }
         ],
-        "Vaulted": false,
+        "Vaulted": true,
         "ReleaseDate": "2016 05 17",
-        "VaultedDate": "n/a",
-        "EstimatedVaultedDate": "2018 03 18"
+        "VaultedDate": "2018 03 20",
+        "EstimatedVaultedDate": "2018 03 20"
     },
     {
         "Name": "Vauban Prime",
@@ -3564,7 +3659,7 @@
                     },
                     {
                         "Name": "Neo V5",
-                        "Vaulted": false,
+                        "Vaulted": true,
                         "Rarity": "Rare"
                     },
                     {
@@ -3595,7 +3690,7 @@
                     },
                     {
                         "Name": "Neo V6",
-                        "Vaulted": false,
+                        "Vaulted": true,
                         "Rarity": "Rare"
                     }
                 ],
@@ -3606,7 +3701,7 @@
                 "Relics": [
                     {
                         "Name": "Neo V2",
-                        "Vaulted": false,
+                        "Vaulted": true,
                         "Rarity": "Rare"
                     },
                     {
@@ -3622,7 +3717,7 @@
                 "Relics": [
                     {
                         "Name": "Lith V2",
-                        "Vaulted": false,
+                        "Vaulted": true,
                         "Rarity": "Rare"
                     },
                     {
@@ -3634,10 +3729,10 @@
                 "Ducats": 100
             }
         ],
-        "Vaulted": false,
+        "Vaulted": true,
         "ReleaseDate": "2016 05 17",
-        "VaultedDate": "n/a",
-        "EstimatedVaultedDate": "2018 03 18"
+        "VaultedDate": "2018 03 20",
+        "EstimatedVaultedDate": "2018 03 20"
     },
     {
         "Name": "Nekros Prime",
@@ -3672,6 +3767,11 @@
                     },
                     {
                         "Name": "Meso K1",
+                        "Vaulted": true,
+                        "Rarity": "Common"
+                    },
+                    {
+                        "Name": "Neo Z1",
                         "Vaulted": false,
                         "Rarity": "Common"
                     }
@@ -3745,7 +3845,7 @@
         "Vaulted": false,
         "ReleaseDate": "2016 08 23",
         "VaultedDate": "n/a",
-        "EstimatedVaultedDate": "2018 06 22"
+        "EstimatedVaultedDate": "2018 06 24"
     },
     {
         "Name": "Galatine Prime",
@@ -3760,16 +3860,26 @@
                     },
                     {
                         "Name": "Axi O1",
-                        "Vaulted": false,
+                        "Vaulted": true,
                         "Rarity": "Uncommon"
                     },
                     {
                         "Name": "Neo V2",
-                        "Vaulted": false,
+                        "Vaulted": true,
                         "Rarity": "Uncommon"
                     },
                     {
                         "Name": "Axi V6",
+                        "Vaulted": false,
+                        "Rarity": "Uncommon"
+                    },
+                    {
+                        "Name": "Axi K2",
+                        "Vaulted": false,
+                        "Rarity": "Uncommon"
+                    },
+                    {
+                        "Name": "Neo Z1",
                         "Vaulted": false,
                         "Rarity": "Uncommon"
                     }
@@ -3786,7 +3896,7 @@
                     },
                     {
                         "Name": "Neo V2",
-                        "Vaulted": false,
+                        "Vaulted": true,
                         "Rarity": "Common"
                     },
                     {
@@ -3823,6 +3933,11 @@
                         "Name": "Lith S7",
                         "Vaulted": false,
                         "Rarity": "Common"
+                    },
+                    {
+                        "Name": "Axi O2",
+                        "Vaulted": false,
+                        "Rarity": "Common"
                     }
                 ],
                 "Ducats": 15
@@ -3847,7 +3962,7 @@
         "Vaulted": false,
         "ReleaseDate": "2016 08 23",
         "VaultedDate": "n/a",
-        "EstimatedVaultedDate": "2018 06 22"
+        "EstimatedVaultedDate": "2018 06 24"
     },
     {
         "Name": "Tigris Prime",
@@ -3919,6 +4034,11 @@
                     },
                     {
                         "Name": "Neo H1",
+                        "Vaulted": true,
+                        "Rarity": "Uncommon"
+                    },
+                    {
+                        "Name": "Neo B4",
                         "Vaulted": false,
                         "Rarity": "Uncommon"
                     }
@@ -3955,6 +4075,11 @@
                     },
                     {
                         "Name": "Meso K1",
+                        "Vaulted": true,
+                        "Rarity": "Uncommon"
+                    },
+                    {
+                        "Name": "Meso T2",
                         "Vaulted": false,
                         "Rarity": "Uncommon"
                     }
@@ -3965,7 +4090,7 @@
         "Vaulted": false,
         "ReleaseDate": "2016 08 23",
         "VaultedDate": "n/a",
-        "EstimatedVaultedDate": "2018 06 22"
+        "EstimatedVaultedDate": "2018 06 24"
     },
     {
         "Name": "Cernos Prime",
@@ -3975,7 +4100,7 @@
                 "Relics": [
                     {
                         "Name": "Meso O1",
-                        "Vaulted": false,
+                        "Vaulted": true,
                         "Rarity": "Uncommon"
                     },
                     {
@@ -3992,6 +4117,11 @@
                         "Name": "Axi A3",
                         "Vaulted": false,
                         "Rarity": "Uncommon"
+                    },
+                    {
+                        "Name": "Axi K2",
+                        "Vaulted": false,
+                        "Rarity": "Uncommon"
                     }
                 ],
                 "Ducats": 45
@@ -4001,7 +4131,7 @@
                 "Relics": [
                     {
                         "Name": "Lith A2",
-                        "Vaulted": false,
+                        "Vaulted": true,
                         "Rarity": "Uncommon"
                     },
                     {
@@ -4012,6 +4142,11 @@
                     {
                         "Name": "Axi V4",
                         "Vaulted": true,
+                        "Rarity": "Uncommon"
+                    },
+                    {
+                        "Name": "Lith Z1",
+                        "Vaulted": false,
                         "Rarity": "Uncommon"
                     }
                 ],
@@ -4032,6 +4167,11 @@
                     },
                     {
                         "Name": "Neo V6",
+                        "Vaulted": true,
+                        "Rarity": "Common"
+                    },
+                    {
+                        "Name": "Axi H3",
                         "Vaulted": false,
                         "Rarity": "Common"
                     }
@@ -4063,6 +4203,11 @@
                     },
                     {
                         "Name": "Meso K1",
+                        "Vaulted": true,
+                        "Rarity": "Common"
+                    },
+                    {
+                        "Name": "Meso O2",
                         "Vaulted": false,
                         "Rarity": "Common"
                     }
@@ -4099,7 +4244,7 @@
         "Vaulted": false,
         "ReleaseDate": "2016 11 22",
         "VaultedDate": "n/a",
-        "EstimatedVaultedDate": "2018 09 26"
+        "EstimatedVaultedDate": "2018 09 28"
     },
     {
         "Name": "Valkyr Prime",
@@ -4114,7 +4259,7 @@
                     },
                     {
                         "Name": "Lith A2",
-                        "Vaulted": false,
+                        "Vaulted": true,
                         "Rarity": "Common"
                     },
                     {
@@ -4129,6 +4274,11 @@
                     },
                     {
                         "Name": "Axi V7",
+                        "Vaulted": false,
+                        "Rarity": "Common"
+                    },
+                    {
+                        "Name": "Neo K1",
                         "Vaulted": false,
                         "Rarity": "Common"
                     }
@@ -4202,7 +4352,7 @@
         "Vaulted": false,
         "ReleaseDate": "2016 11 22",
         "VaultedDate": "n/a",
-        "EstimatedVaultedDate": "2018 09 26"
+        "EstimatedVaultedDate": "2018 09 28"
     },
     {
         "Name": "Venka Prime",
@@ -4279,7 +4429,7 @@
         "Vaulted": false,
         "ReleaseDate": "2016 11 22",
         "VaultedDate": "n/a",
-        "EstimatedVaultedDate": "2018 09 26"
+        "EstimatedVaultedDate": "2018 09 28"
     },
     {
         "Name": "Aklex Prime",
@@ -4335,6 +4485,11 @@
                     },
                     {
                         "Name": "Meso H1",
+                        "Vaulted": true,
+                        "Rarity": "Rare"
+                    },
+                    {
+                        "Name": "Lith H2",
                         "Vaulted": false,
                         "Rarity": "Rare"
                     }
@@ -4351,7 +4506,7 @@
                     },
                     {
                         "Name": "Neo V5",
-                        "Vaulted": false,
+                        "Vaulted": true,
                         "Rarity": "Common"
                     },
                     {
@@ -4368,6 +4523,11 @@
                         "Name": "Axi A3",
                         "Vaulted": false,
                         "Rarity": "Common"
+                    },
+                    {
+                        "Name": "Axi H3",
+                        "Vaulted": false,
+                        "Rarity": "Common"
                     }
                 ],
                 "Ducats": 15
@@ -4382,6 +4542,11 @@
                     },
                     {
                         "Name": "Axi N5",
+                        "Vaulted": false,
+                        "Rarity": "Uncommon"
+                    },
+                    {
+                        "Name": "Axi O2",
                         "Vaulted": false,
                         "Rarity": "Uncommon"
                     }
@@ -4410,6 +4575,11 @@
                         "Name": "Neo M1",
                         "Vaulted": false,
                         "Rarity": "Uncommon"
+                    },
+                    {
+                        "Name": "Neo K1",
+                        "Vaulted": false,
+                        "Rarity": "Uncommon"
                     }
                 ],
                 "Ducats": 45
@@ -4418,7 +4588,7 @@
         "Vaulted": false,
         "ReleaseDate": "2017 02 28",
         "VaultedDate": "n/a",
-        "EstimatedVaultedDate": "2018 12 31"
+        "EstimatedVaultedDate": "2019 01 02"
     },
     {
         "Name": "Euphona Prime",
@@ -4428,7 +4598,7 @@
                 "Relics": [
                     {
                         "Name": "Axi O1",
-                        "Vaulted": false,
+                        "Vaulted": true,
                         "Rarity": "Common"
                     },
                     {
@@ -4443,6 +4613,11 @@
                     },
                     {
                         "Name": "Axi N5",
+                        "Vaulted": false,
+                        "Rarity": "Common"
+                    },
+                    {
+                        "Name": "Neo K1",
                         "Vaulted": false,
                         "Rarity": "Common"
                     }
@@ -4485,7 +4660,7 @@
         "Vaulted": false,
         "ReleaseDate": "2017 02 28",
         "VaultedDate": "n/a",
-        "EstimatedVaultedDate": "2018 12 31"
+        "EstimatedVaultedDate": "2019 01 02"
     },
     {
         "Name": "Banshee Prime",
@@ -4500,6 +4675,11 @@
                     },
                     {
                         "Name": "Axi B2",
+                        "Vaulted": true,
+                        "Rarity": "Rare"
+                    },
+                    {
+                        "Name": "Neo B4",
                         "Vaulted": false,
                         "Rarity": "Rare"
                     }
@@ -4521,6 +4701,11 @@
                     },
                     {
                         "Name": "Neo H1",
+                        "Vaulted": true,
+                        "Rarity": "Uncommon"
+                    },
+                    {
+                        "Name": "Meso T2",
                         "Vaulted": false,
                         "Rarity": "Uncommon"
                     }
@@ -4563,7 +4748,7 @@
         "Vaulted": false,
         "ReleaseDate": "2017 02 28",
         "VaultedDate": "n/a",
-        "EstimatedVaultedDate": "2018 12 31"
+        "EstimatedVaultedDate": "2019 01 02"
     },
     {
         "Name": "Oberon Prime",
@@ -4573,6 +4758,11 @@
                 "Relics": [
                     {
                         "Name": "Meso O1",
+                        "Vaulted": true,
+                        "Rarity": "Rare"
+                    },
+                    {
+                        "Name": "Meso O2",
                         "Vaulted": false,
                         "Rarity": "Rare"
                     }
@@ -4595,6 +4785,11 @@
                 "Relics": [
                     {
                         "Name": "Axi O1",
+                        "Vaulted": true,
+                        "Rarity": "Rare"
+                    },
+                    {
+                        "Name": "Axi O2",
                         "Vaulted": false,
                         "Rarity": "Rare"
                     }
@@ -4616,6 +4811,11 @@
                     },
                     {
                         "Name": "Meso H1",
+                        "Vaulted": true,
+                        "Rarity": "Uncommon"
+                    },
+                    {
+                        "Name": "Lith H2",
                         "Vaulted": false,
                         "Rarity": "Uncommon"
                     }
@@ -4626,7 +4826,7 @@
         "Vaulted": false,
         "ReleaseDate": "2017 05 30",
         "VaultedDate": "n/a",
-        "EstimatedVaultedDate": "2019 04 06"
+        "EstimatedVaultedDate": "2019 04 08"
     },
     {
         "Name": "Sybaris Prime",
@@ -4636,6 +4836,11 @@
                 "Relics": [
                     {
                         "Name": "Axi B2",
+                        "Vaulted": true,
+                        "Rarity": "Common"
+                    },
+                    {
+                        "Name": "Axi K2",
                         "Vaulted": false,
                         "Rarity": "Common"
                     }
@@ -4689,7 +4894,7 @@
         "Vaulted": false,
         "ReleaseDate": "2017 05 30",
         "VaultedDate": "n/a",
-        "EstimatedVaultedDate": "2019 04 06"
+        "EstimatedVaultedDate": "2019 04 08"
     },
     {
         "Name": "Silva & Aegis Prime",
@@ -4731,6 +4936,11 @@
                 "Relics": [
                     {
                         "Name": "Neo V5",
+                        "Vaulted": true,
+                        "Rarity": "Common"
+                    },
+                    {
+                        "Name": "Neo K1",
                         "Vaulted": false,
                         "Rarity": "Common"
                     }
@@ -4757,7 +4967,7 @@
         "Vaulted": false,
         "ReleaseDate": "2017 05 30",
         "VaultedDate": "n/a",
-        "EstimatedVaultedDate": "2019 04 06"
+        "EstimatedVaultedDate": "2019 04 08"
     },
     {
         "Name": "Hydroid Prime",
@@ -4794,6 +5004,11 @@
                 "Relics": [
                     {
                         "Name": "Neo H1",
+                        "Vaulted": true,
+                        "Rarity": "Rare"
+                    },
+                    {
+                        "Name": "Axi H3",
                         "Vaulted": false,
                         "Rarity": "Rare"
                     }
@@ -4810,6 +5025,11 @@
                     },
                     {
                         "Name": "Meso H1",
+                        "Vaulted": true,
+                        "Rarity": "Common"
+                    },
+                    {
+                        "Name": "Neo B4",
                         "Vaulted": false,
                         "Rarity": "Common"
                     }
@@ -4820,7 +5040,7 @@
         "Vaulted": false,
         "ReleaseDate": "2017 08 29",
         "VaultedDate": "n/a",
-        "EstimatedVaultedDate": "2019 07 11"
+        "EstimatedVaultedDate": "2019 07 13"
     },
     {
         "Name": "Nami Skyla Prime",
@@ -4872,7 +5092,7 @@
         "Vaulted": false,
         "ReleaseDate": "2017 08 29",
         "VaultedDate": "n/a",
-        "EstimatedVaultedDate": "2019 07 11"
+        "EstimatedVaultedDate": "2019 07 13"
     },
     {
         "Name": "Ballistica Prime",
@@ -4936,7 +5156,7 @@
         "Vaulted": false,
         "ReleaseDate": "2017 08 29",
         "VaultedDate": "n/a",
-        "EstimatedVaultedDate": "2019 07 11"
+        "EstimatedVaultedDate": "2019 07 13"
     },
     {
         "Name": "Kogake Prime",
@@ -4968,6 +5188,11 @@
                 "Relics": [
                     {
                         "Name": "Meso K1",
+                        "Vaulted": true,
+                        "Rarity": "Rare"
+                    },
+                    {
+                        "Name": "Neo K1",
                         "Vaulted": false,
                         "Rarity": "Rare"
                     }
@@ -4978,7 +5203,7 @@
         "Vaulted": false,
         "ReleaseDate": "2017 12 12",
         "VaultedDate": "n/a",
-        "EstimatedVaultedDate": "2019 10 15"
+        "EstimatedVaultedDate": "2019 10 17"
     },
     {
         "Name": "Akbolto Prime",
@@ -5031,7 +5256,7 @@
         "Vaulted": false,
         "ReleaseDate": "2017 12 12",
         "VaultedDate": "n/a",
-        "EstimatedVaultedDate": "2019 10 15"
+        "EstimatedVaultedDate": "2019 10 17"
     },
     {
         "Name": "Mirage Prime",
@@ -5052,6 +5277,11 @@
                 "Relics": [
                     {
                         "Name": "Meso H1",
+                        "Vaulted": true,
+                        "Rarity": "Common"
+                    },
+                    {
+                        "Name": "Lith Z1",
                         "Vaulted": false,
                         "Rarity": "Common"
                     }
@@ -5074,6 +5304,11 @@
                 "Relics": [
                     {
                         "Name": "Neo V6",
+                        "Vaulted": true,
+                        "Rarity": "Uncommon"
+                    },
+                    {
+                        "Name": "Meso O2",
                         "Vaulted": false,
                         "Rarity": "Uncommon"
                     }
@@ -5084,6 +5319,154 @@
         "Vaulted": false,
         "ReleaseDate": "2017 12 12",
         "VaultedDate": "n/a",
-        "EstimatedVaultedDate": "2019 10 15"
+        "EstimatedVaultedDate": "2019 10 17"
+    },
+    {
+        "Name": "Kronen Prime",
+        "Components": [
+            {
+                "Name": "Blueprint",
+                "Relics": [
+                    {
+                        "Name": "Axi H3",
+                        "Vaulted": false,
+                        "Rarity": "Common"
+                    }
+                ],
+                "Ducats": 15
+            },
+            {
+                "Name": "Blade",
+                "Relics": [
+                    {
+                        "Name": "Axi K2",
+                        "Vaulted": false,
+                        "Rarity": "Rare"
+                    }
+                ],
+                "Ducats": 100
+            },
+            {
+                "Name": "Handle",
+                "Relics": [
+                    {
+                        "Name": "Neo B4",
+                        "Vaulted": false,
+                        "Rarity": "Uncommon"
+                    }
+                ],
+                "Ducats": 45
+            }
+        ],
+        "ReleaseDate": "2018 03 20",
+        "VaultedDate": "n/a",
+        "Vaulted": false,
+        "EstimatedVaultedDate": "2020 01 21"
+    },
+    {
+        "Name": "Tiberon Prime",
+        "Components": [
+            {
+                "Name": "Blueprint",
+                "Relics": [
+                    {
+                        "Name": "Axi O2",
+                        "Vaulted": false,
+                        "Rarity": "Uncommon"
+                    }
+                ],
+                "Ducats": 45
+            },
+            {
+                "Name": "Receiver",
+                "Relics": [
+                    {
+                        "Name": "Meso O2",
+                        "Vaulted": false,
+                        "Rarity": "Common"
+                    }
+                ],
+                "Ducats": 15
+            },
+            {
+                "Name": "Barrel",
+                "Relics": [
+                    {
+                        "Name": "Meso T1",
+                        "Vaulted": false,
+                        "Rarity": "Rare"
+                    }
+                ],
+                "Ducats": 100
+            },
+            {
+                "Name": "Stock",
+                "Relics": [
+                    {
+                        "Name": "Meso T2",
+                        "Vaulted": false,
+                        "Rarity": "Rare"
+                    }
+                ],
+                "Ducats": 100
+            }
+        ],
+        "ReleaseDate": "2018 03 20",
+        "VaultedDate": "n/a",
+        "Vaulted": false,
+        "EstimatedVaultedDate": "2020 01 21"
+    },
+    {
+        "Name": "Zephyr Prime",
+        "Components": [
+            {
+                "Name": "Neuroptics",
+                "Relics": [
+                    {
+                        "Name": "Lith H2",
+                        "Vaulted": false,
+                        "Rarity": "Common"
+                    }
+                ],
+                "Ducats": 15
+            },
+            {
+                "Name": "Systems",
+                "Relics": [
+                    {
+                        "Name": "Lith Z1",
+                        "Vaulted": false,
+                        "Rarity": "Rare"
+                    }
+                ],
+                "Ducats": 100
+            },
+            {
+                "Name": "Chassis",
+                "Relics": [
+                    {
+                        "Name": "Neo K1",
+                        "Vaulted": false,
+                        "Rarity": "Uncommon"
+                    }
+                ],
+                "Ducats": 45
+            },
+            {
+                "Name": "Blueprint",
+                "Relics": [
+                    {
+                        "Name": "Neo Z1",
+                        "Vaulted": false,
+                        "Rarity": "Rare"
+                    }
+                ],
+                "Ducats": 100
+            }
+        ],
+        "ReleaseDate": "2018 03 20",
+        "VaultedDate": "n/a",
+        "Vaulted": false,
+        "EstimatedVaultedDate": "2020 01 21"
     }
 ]
