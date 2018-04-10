@@ -4776,6 +4776,11 @@
                         "Name": "Axi H2",
                         "Vaulted": true,
                         "Rarity": "Common"
+                    },
+                    {
+                        "Name": "Axi N5",
+                        "Vaulted": false,
+                        "Rarity": "Common"
                     }
                 ],
                 "Ducats": 15
@@ -4805,11 +4810,6 @@
                         "Rarity": "Uncommon"
                     },
                     {
-                        "Name": "Axi N5",
-                        "Vaulted": false,
-                        "Rarity": "Common"
-                    },
-                    {
                         "Name": "Meso H1",
                         "Vaulted": true,
                         "Rarity": "Uncommon"
@@ -4820,7 +4820,7 @@
                         "Rarity": "Uncommon"
                     }
                 ],
-                "Ducats": 25
+                "Ducats": 45
             }
         ],
         "Vaulted": false,
