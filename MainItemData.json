@@ -266,10 +266,10 @@
                     {
                         "Name": "Neo N8",
                         "Vaulted": false,
-                        "Rarity": "Uncommon"
+                        "Rarity": "Common"
                     }
                 ],
-                "Ducats": 25
+                "Ducats": 15
             },
             {
                 "Name": "Lower Limb",
@@ -322,10 +322,10 @@
                     {
                         "Name": "Meso D2",
                         "Vaulted": false,
-                        "Rarity": "Uncommon"
+                        "Rarity": "Common"
                     }
                 ],
-                "Ducats": 25
+                "Ducats": 15
             },
             {
                 "Name": "Blueprint",
@@ -388,10 +388,10 @@
                     {
                         "Name": "Axi K3",
                         "Vaulted": false,
-                        "Rarity": "Uncommon"
+                        "Rarity": "Common"
                     }
                 ],
-                "Ducats": 25
+                "Ducats": 15
             },
             {
                 "Name": "Upper Limb",
@@ -672,10 +672,10 @@
                     {
                         "Name": "Lith P1",
                         "Vaulted": false,
-                        "Rarity": "Uncommon"
+                        "Rarity": "Common"
                     }
                 ],
-                "Ducats": 25
+                "Ducats": 15
             },
             {
                 "Name": "Handle",
@@ -774,10 +774,10 @@
                     {
                         "Name": "Meso Z1",
                         "Vaulted": false,
-                        "Rarity": "Uncommon"
+                        "Rarity": "Common"
                     }
                 ],
-                "Ducats": 25
+                "Ducats": 15
             }
         ],
         "Vaulted": false,
@@ -834,10 +834,10 @@
                     {
                         "Name": "Axi A4",
                         "Vaulted": false,
-                        "Rarity": "Uncommon"
+                        "Rarity": "Common"
                     }
                 ],
-                "Ducats": 25
+                "Ducats": 15
             },
             {
                 "Name": "Barrel",
@@ -875,10 +875,10 @@
                     {
                         "Name": "Neo B5",
                         "Vaulted": false,
-                        "Rarity": "Uncommon"
+                        "Rarity": "Common"
                     }
                 ],
-                "Ducats": 25
+                "Ducats": 15
             },
             {
                 "Name": "Blueprint",
@@ -916,12 +916,17 @@
                     {
                         "Name": "Axi L2",
                         "Vaulted": false,
-                        "Rarity": "Uncommon"
+                        "Rarity": "Common"
                     },
                     {
                         "Name": "Lith T2",
                         "Vaulted": false,
                         "Rarity": "Uncommon"
+                    },
+                    {
+                        "Name": "Meso B2",
+                        "Vaulted": false,
+                        "Rarity": "Common"
                     }
                 ],
                 "Ducats": 25
@@ -1038,10 +1043,10 @@
                     {
                         "Name": "Axi L2",
                         "Vaulted": false,
-                        "Rarity": "Uncommon"
+                        "Rarity": "Common"
                     }
                 ],
-                "Ducats": 25
+                "Ducats": 15
             },
             {
                 "Name": "Blade",
@@ -1499,10 +1504,10 @@
                     {
                         "Name": "Meso Z1",
                         "Vaulted": false,
-                        "Rarity": "Uncommon"
+                        "Rarity": "Common"
                     }
                 ],
-                "Ducats": 25
+                "Ducats": 15
             },
             {
                 "Name": "Barrel",
@@ -1561,10 +1566,10 @@
                     {
                         "Name": "Lith B3",
                         "Vaulted": false,
-                        "Rarity": "Uncommon"
+                        "Rarity": "Common"
                     }
                 ],
-                "Ducats": 25
+                "Ducats": 15
             },
             {
                 "Name": "Stock",
@@ -1612,10 +1617,10 @@
                     {
                         "Name": "Axi O3",
                         "Vaulted": false,
-                        "Rarity": "Uncommon"
+                        "Rarity": "Common"
                     }
                 ],
-                "Ducats": 25
+                "Ducats": 15
             }
         ],
         "Vaulted": false,
@@ -1810,10 +1815,10 @@
                     {
                         "Name": "Lith V5",
                         "Vaulted": false,
-                        "Rarity": "Uncommon"
+                        "Rarity": "Common"
                     }
                 ],
-                "Ducats": 25
+                "Ducats": 15
             },
             {
                 "Name": "Link",
@@ -1921,10 +1926,10 @@
                     {
                         "Name": "Lith T2",
                         "Vaulted": false,
-                        "Rarity": "Uncommon"
+                        "Rarity": "Common"
                     }
                 ],
-                "Ducats": 25
+                "Ducats": 15
             },
             {
                 "Name": "Blueprint",
@@ -1962,7 +1967,7 @@
                     {
                         "Name": "Lith V5",
                         "Vaulted": false,
-                        "Rarity": "Uncommon"
+                        "Rarity": "Common"
                     }
                 ],
                 "Ducats": 25
@@ -2008,15 +2013,15 @@
                     {
                         "Name": "Axi V8",
                         "Vaulted": false,
-                        "Rarity": "Uncommon"
+                        "Rarity": "Common"
                     },
                     {
                         "Name": "Meso D2",
                         "Vaulted": false,
-                        "Rarity": "Uncommon"
+                        "Rarity": "Common"
                     }
                 ],
-                "Ducats": 25
+                "Ducats": 15
             }
         ],
         "Vaulted": false,
@@ -2582,10 +2587,10 @@
                     {
                         "Name": "Neo O1",
                         "Vaulted": false,
-                        "Rarity": "Uncommon"
+                        "Rarity": "Common"
                     }
                 ],
-                "Ducats": 25
+                "Ducats": 15
             },
             {
                 "Name": "Systems",
@@ -2608,10 +2613,10 @@
                     {
                         "Name": "Axi V8",
                         "Vaulted": false,
-                        "Rarity": "Uncommon"
+                        "Rarity": "Common"
                     }
                 ],
-                "Ducats": 25
+                "Ducats": 15
             },
             {
                 "Name": "Blueprint",
@@ -2685,10 +2690,10 @@
                     {
                         "Name": "Neo O1",
                         "Vaulted": false,
-                        "Rarity": "Uncommon"
+                        "Rarity": "Common"
                     }
                 ],
-                "Ducats": 45
+                "Ducats": 25
             },
             {
                 "Name": "Systems",
@@ -4338,10 +4343,10 @@
                     {
                         "Name": "Axi K3",
                         "Vaulted": false,
-                        "Rarity": "Uncommon"
+                        "Rarity": "Common"
                     }
                 ],
-                "Ducats": 25
+                "Ducats": 15
             },
             {
                 "Name": "Upper Limb",
@@ -4379,10 +4384,10 @@
                     {
                         "Name": "Meso S7",
                         "Vaulted": false,
-                        "Rarity": "Uncommon"
+                        "Rarity": "Common"
                     }
                 ],
-                "Ducats": 25
+                "Ducats": 15
             },
             {
                 "Name": "Lower Limb",
@@ -4453,12 +4458,12 @@
                         "Rarity": "Common"
                     },
                     {
-                        "Name": "Meso B2",
+                        "Name": "Lith T2",
                         "Vaulted": false,
-                        "Rarity": "Uncommon"
+                        "Rarity": "Common"
                     }
                 ],
-                "Ducats": 25
+                "Ducats": 15
             },
             {
                 "Name": "Neuroptics",
@@ -4620,10 +4625,10 @@
                     {
                         "Name": "Meso S7",
                         "Vaulted": false,
-                        "Rarity": "Uncommon"
+                        "Rarity": "Common"
                     }
                 ],
-                "Ducats": 25
+                "Ducats": 15
             }
         ],
         "Vaulted": false,
@@ -4737,10 +4742,10 @@
                     {
                         "Name": "Lith P1",
                         "Vaulted": false,
-                        "Rarity": "Uncommon"
+                        "Rarity": "Common"
                     }
                 ],
-                "Ducats": 25
+                "Ducats": 15
             },
             {
                 "Name": "Systems",
@@ -4844,10 +4849,10 @@
                     {
                         "Name": "Neo L1",
                         "Vaulted": false,
-                        "Rarity": "Uncommon"
+                        "Rarity": "Common"
                     }
                 ],
-                "Ducats": 25
+                "Ducats": 15
             },
             {
                 "Name": "Barrel",
@@ -4989,10 +4994,10 @@
                     {
                         "Name": "Lith V5",
                         "Vaulted": false,
-                        "Rarity": "Uncommon"
+                        "Rarity": "Common"
                     }
                 ],
-                "Ducats": 25
+                "Ducats": 15
             }
         ],
         "Vaulted": false,
@@ -5035,10 +5040,10 @@
                     {
                         "Name": "Meso B2",
                         "Vaulted": false,
-                        "Rarity": "Uncommon"
+                        "Rarity": "Common"
                     }
                 ],
-                "Ducats": 25
+                "Ducats": 15
             },
             {
                 "Name": "Systems",
@@ -5112,10 +5117,10 @@
                     {
                         "Name": "Neo N8",
                         "Vaulted": false,
-                        "Rarity": "Uncommon"
+                        "Rarity": "Common"
                     }
                 ],
-                "Ducats": 25
+                "Ducats": 15
             },
             {
                 "Name": "Barrel",
@@ -5149,10 +5154,10 @@
                     {
                         "Name": "Lith P1",
                         "Vaulted": false,
-                        "Rarity": "Uncommon"
+                        "Rarity": "Common"
                     }
                 ],
-                "Ducats": 25
+                "Ducats": 15
             },
             {
                 "Name": "Receiver",
@@ -5237,10 +5242,10 @@
                     {
                         "Name": "Meso B2",
                         "Vaulted": false,
-                        "Rarity": "Uncommon"
+                        "Rarity": "Common"
                     }
                 ],
-                "Ducats": 25
+                "Ducats": 15
             },
             {
                 "Name": "Guard",
@@ -5336,10 +5341,10 @@
                     {
                         "Name": "Neo N8",
                         "Vaulted": false,
-                        "Rarity": "Uncommon"
+                        "Rarity": "Common"
                     }
                 ],
-                "Ducats": 25
+                "Ducats": 15
             }
         ],
         "Vaulted": false,
@@ -5403,10 +5408,10 @@
                     {
                         "Name": "Axi L2",
                         "Vaulted": false,
-                        "Rarity": "Uncommon"
+                        "Rarity": "Common"
                     }
                 ],
-                "Ducats": 25
+                "Ducats": 15
             }
         ],
         "Vaulted": false,
@@ -5428,10 +5433,10 @@
                     {
                         "Name": "Neo B5",
                         "Vaulted": false,
-                        "Rarity": "Uncommon"
+                        "Rarity": "Common"
                     }
                 ],
-                "Ducats": 25
+                "Ducats": 15
             },
             {
                 "Name": "Blueprint",
@@ -5612,10 +5617,10 @@
                     {
                         "Name": "Neo V7",
                         "Vaulted": false,
-                        "Rarity": "Uncommon"
+                        "Rarity": "Common"
                     }
                 ],
-                "Ducats": 25
+                "Ducats": 15
             }
         ],
         "Vaulted": false,
@@ -5637,10 +5642,10 @@
                     {
                         "Name": "Neo L1",
                         "Vaulted": false,
-                        "Rarity": "Uncommon"
+                        "Rarity": "Common"
                     }
                 ],
-                "Ducats": 25
+                "Ducats": 15
             },
             {
                 "Name": "Neuroptics",
@@ -5705,10 +5710,10 @@
                     {
                         "Name": "Neo L1",
                         "Vaulted": false,
-                        "Rarity": "Uncommon"
+                        "Rarity": "Common"
                     }
                 ],
-                "Ducats": 25
+                "Ducats": 15
             },
             {
                 "Name": "Blade",
@@ -5778,10 +5783,10 @@
                     {
                         "Name": "Axi K3",
                         "Vaulted": false,
-                        "Rarity": "Uncommon"
+                        "Rarity": "Common"
                     }
                 ],
-                "Ducats": 25
+                "Ducats": 15
             },
             {
                 "Name": "Barrel",
@@ -5830,10 +5835,10 @@
                     {
                         "Name": "Axi A4",
                         "Vaulted": false,
-                        "Rarity": "Uncommon"
+                        "Rarity": "Common"
                     }
                 ],
-                "Ducats": 25
+                "Ducats": 15
             },
             {
                 "Name": "Systems",
@@ -5915,10 +5920,10 @@
                     {
                         "Name": "Neo V7",
                         "Vaulted": false,
-                        "Rarity": "Uncommon"
+                        "Rarity": "Common"
                     }
                 ],
-                "Ducats": 45
+                "Ducats": 15
             }
         ],
         "ReleaseDate": "2018 06 19",
@@ -5946,10 +5951,10 @@
                     {
                         "Name": "Lith B3",
                         "Vaulted": false,
-                        "Rarity": "Uncommon"
+                        "Rarity": "Common"
                     }
                 ],
-                "Ducats": 45
+                "Ducats": 15
             },
             {
                 "Name": "Blueprint",
@@ -5988,10 +5993,10 @@
                     {
                         "Name": "Axi O3",
                         "Vaulted": false,
-                        "Rarity": "Uncommon"
+                        "Rarity": "Common"
                     }
                 ],
-                "Ducats": 45
+                "Ducats": 15
             },
             {
                 "Name": "Blade",
